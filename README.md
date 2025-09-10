@@ -43,3 +43,7 @@ npm run build
 This project is configured for automatic deployment to GitHub Pages via GitHub Actions.
 
 View your app in AI Studio: https://ai.studio/apps/drive/1vxXvJM3_jCeCf2J1urYwHul-VGOsZcq3
+
+## Live Demo
+
+🚀 **Live Site**: https://DiA-greatson79.github.io/worshipflow.ai
